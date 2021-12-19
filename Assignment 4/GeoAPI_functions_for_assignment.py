@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 11 22:49:45 2019
-
-@author: KY
-"""
-
 def getGeojs(address, verbose=False):
     import urllib.request, urllib.parse, urllib.error
     import json
